@@ -1,0 +1,22 @@
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\bin\Debug\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\bin\Debug\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\bin\Debug\libComunes.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\bin\Debug\libComunes.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\obj\Debug\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\LibClases\LibClases\obj\Debug\LibClases.pdb
+T:\Proyectos\Hosteria_Tesoro V1\LibClases\LibClases\bin\Debug\LibClases.dll
+T:\Proyectos\Hosteria_Tesoro V1\LibClases\LibClases\bin\Debug\LibClases.pdb
+T:\Proyectos\Hosteria_Tesoro V1\LibClases\LibClases\obj\Debug\LibClases.dll
+T:\Proyectos\Hosteria_Tesoro V1\LibClases\LibClases\obj\Debug\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\obj\Debug\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\bin\Debug\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\bin\Debug\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\bin\Debug\libComunes.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\bin\Debug\libComunes.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\LibClases\LibClases\obj\Debug\LibClases.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\LibClases\LibClases\bin\Debug\LibClases.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\LibClases\LibClases\bin\Debug\LibClases.pdb
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\LibClases\LibClases\obj\Debug\LibClases.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\LibClases\LibClases\obj\Debug\LibClases.pdb

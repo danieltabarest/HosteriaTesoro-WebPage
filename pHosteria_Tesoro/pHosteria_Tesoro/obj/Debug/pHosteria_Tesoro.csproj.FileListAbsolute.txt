@@ -1,0 +1,43 @@
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.pdb
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.dll
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.pdb
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.dll
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.dll
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.pdb
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.csprojResolveAssemblyReference.cache
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.dll
+T:\Proyectos\Hosteria_Tesoro V1\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V2\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.pdb
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.dll
+D:\Proyectos\Hosteria ASPX - ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.pdb
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\pHosteria_Tesoro.pdb
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\libComunes.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\bin\LibClases.pdb
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.csprojResolveAssemblyReference.cache
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.dll
+T:\Proyectos\Hosteria ASPX -  ITM\Hosteria_Tesoro V5\pHosteria_Tesoro\pHosteria_Tesoro\obj\Debug\pHosteria_Tesoro.pdb
